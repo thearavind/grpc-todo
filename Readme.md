@@ -2,6 +2,8 @@
 
 A simple todo app using gRPC on both the server and client side
 
+Code for the article [A TODO app using grpc-web and Vue.js](https://medium.com/@aravindhanjay/a-todo-app-using-grpc-web-and-vue-js-4e0c18461a3e)
+
 ## Build process
 
 To start the gRPC server
