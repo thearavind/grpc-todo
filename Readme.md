@@ -72,3 +72,10 @@ sudo docker run  -p 8080:8080 --net=host  envoy:v1
 cd todo-client/
 yarn serve
 ```
+
+## Build process with docker-compose
+
+```console
+docker-compose build
+docker-compose up
+```
